@@ -1,16 +1,7 @@
-# fl_dynamic_color
+# Estimating Text Color Based on Background Color
 
-A new Flutter project.
+Have you ever wanted to set the color of your text to a dynamic background color (or vice versa)?
 
-## Getting Started
+The code in this repository shows how to use `ThemeData.estimateBrightnessForColor(Color color)` to do just that.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Check out our Snippet for this article over at [https://developer.school](https://developer.school/snippets/flutter/estimating-text-color-based-on-background-color).
